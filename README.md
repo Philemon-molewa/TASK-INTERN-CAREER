@@ -13,7 +13,7 @@ MySQL Connector/J JDBC driver
 NetBeans IDE development environment
 
 How to Run the Project.
-Set Up Database – Start MySQL, import the onlineexam data.
+Set Up Database – Start MySQL, import the onlineexam database.
 from NetBeans Load the project and add the MySQL Connector/J library.
 Update the database credentials in the project like the password and root.
 Run Application.
